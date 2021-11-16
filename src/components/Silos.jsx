@@ -19,7 +19,7 @@ const Silos = () => {
                     <p className="text-center text-grayLight font-normal text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec justo vel lacus ullamcorper molestie tincidunt eget orci. Phasellus efficitur arcu nulla, vel congue neque blandit at.</p>
                     <div className="launch-btn text-center mt-4">
                         <Link href="/">
-                            <a className="inline-block sm:text-base text-sm text-dark sm:font-bold font-semibold leading-6 sm:py-2 py-1 sm:px-4 px-3 sm:rounded-xl rounded-md border-2 border-solid border-primary bg-primary">Go to Silos</a>
+                            <a className="cursor-pointer inline-block sm:text-base text-sm text-dark sm:font-bold font-semibold leading-6 sm:py-2 py-1 sm:px-4 px-3 sm:rounded-xl rounded-md border-2 border-solid border-primary bg-primary">Go to Silos</a>
                         </Link>
                     </div>
                 </div>
