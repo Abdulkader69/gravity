@@ -6,7 +6,7 @@ const AuditsReviews = () => {
             <div className="w-full max-w-container-inner m-auto">
                 <h2 className="w-full text-center lg:text-4xl md:text-2xl text-xl text-white tracking-widest mb-8 font-bold">Audits & Reviews</h2>
             </div>
-            <div className="max-w-container-inner m-auto flex flex-wrap md:justify-center justify-start sm:items-center">
+            <div className="max-w-container-inner m-auto flex flex-wrap justify-center sm:items-center">
                 <div className="clients-logo-wrap lg:w-3/12 sm:w-1/3 w-1/2 mb-10">
                     <div className="icon-logo z-10 md:w-28 w-20 md:h-28 h-20 m-auto mb-4 overflow-hidden relative rounded-full flex justify-center items-center border-2 border-solid border-primary">
                         <Image

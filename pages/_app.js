@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps, router }) {
     <>
       <Head>
         <title>GRAVITY FINANCE</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon-logo.png" />
       </Head>
       <div id="page_container" className={`${bodyClassName} overflow-hidden bg-siteBG`}>
         <Header />
